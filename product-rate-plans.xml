@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="product-rate-plans">
+    <Basepaths>/v1/product-rate-plans</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1671140426826</CreatedAt>
+    <CreatedBy>sivaji.sontena@brightspeed.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>product-rate-plans</DisplayName>
+    <LastModifiedAt>1671140460441</LastModifiedAt>
+    <LastModifiedBy>sivaji.sontena@brightspeed.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:0a5c35554a186355038e04fc4bc0d0596707964f19d4ddf51aa85b8a9dc8648c7b73ed4baff22328cd13b8a461e6d1588bc084fafa4f0eb1d247c12e74418797:us-east-1</ManifestVersion>
+    <Policies>
+        <Policy>add-cors</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
